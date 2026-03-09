@@ -2,7 +2,7 @@ I want to create a web application (SaaS) for project managers. This application
 
 The tech stack will be as follows
 1. Frontend will be Next.js (App Router) + TypeScript. We can  use Tailwind css and shadcn/ui components if needed
-2. Backend will be next.js sever actions. Database will be postgres.
+2. Backend will be next.js server actions. Database will be MongoDB.
 3. For LLM use OpenAI (GPT-4.1 or GPT-4o-mini).
 
 Please add comments to the code as if a junior software developer will be reading it.
